@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace LiteUnity.Editor
 {
-    public static class LiteEditorDrawer
+    internal static class LiteEditorDrawer
     {
         private static object DrawIntField(Rect rect, GUIContent title, int v, Type type, object[] attrs)
         {
