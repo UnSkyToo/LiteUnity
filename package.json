@@ -1,0 +1,13 @@
+{
+  "name": "com.liteunity",
+  "version": "0.0.1",
+  "displayName": "LiteUnity",
+  "description": "Unity Library",
+  "unity": "2020.3",
+  "keywords": [],
+  "author": {
+    "name": "UnSkyToo",
+    "email": "unskytoo@qq.com",
+    "url": "https://github.com/UnSkyToo"
+  }
+}
