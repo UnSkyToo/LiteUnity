@@ -1,6 +1,6 @@
 {
   "name": "com.liteunity",
-  "version": "0.0.1",
+  "version": "0.0.1-preview",
   "displayName": "LiteUnity",
   "description": "Unity Library",
   "unity": "2020.3",
